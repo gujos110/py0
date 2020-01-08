@@ -3,6 +3,7 @@ def one():
     return 'January'
 
 def two():
+    print('it comes to the function february')
     return 'February'
 
 def three():
